@@ -12,5 +12,5 @@ In the following analysis, two key questions will be addressed to tackle the pro
 
 
 
-### See job search analysis Jupyter Notebook for detailed analysis
-### All the external data used in the project are in the data_used folder
+### See [Job Search Analysis](https://github.com/574567254/Job_Searching_Analysis/blob/44b88b941b28fa5187f9e6f256c350c9e3649aab/Job_search_analysis.ipynb) Jupyter Notebook for detailed analysis
+### All the external data used in the project are in the [data_used](https://github.com/574567254/Job_Searching_Analysis/blob/44b88b941b28fa5187f9e6f256c350c9e3649aab/data_used) folder
